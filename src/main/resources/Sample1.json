@@ -1,0 +1,29 @@
+{
+
+"name": "RISHI BABU",
+
+"age": 25,
+
+"address": {
+
+           "city": "Thoothukudi",
+           "state":"Tamil Nadu",
+           "pincode":628002,
+           "country":"India"
+         
+          },
+          
+          
+"courses":[
+
+          "Java",
+          "Selenium",
+          "Appium",
+          "Api",
+          "Framework"
+
+          ],
+          
+          
+"status": true
+}
